@@ -1,6 +1,6 @@
 # Build C-Lang Makefile
 [heading__top]:
-  #build-clang-makefile
+  #build-c-lang-makefile
   "&#x2B06; Copies and customizes Makefile script to target path"
 
 
@@ -28,7 +28,6 @@ Copies and customizes Makefile script to target path
   - [:trident: Forking][heading__forking]
   - [:currency_exchange: Sponsor][heading__sponsor]
 
-
 - [:card_index: Attribution][heading__attribution]
 
 - [:balance_scale: Licensing][heading__license]
@@ -44,6 +43,9 @@ Copies and customizes Makefile script to target path
   "&#x1F3D7; Prerequisites and/or dependencies that this project needs to function properly"
 
 
+Bash version 4.4 or greater is required for `build-clang-makefile` script, and dependencies.
+
+GAwk version 4.1 or greater is required for some features of built Makefiles to function.
 
 
 ______
